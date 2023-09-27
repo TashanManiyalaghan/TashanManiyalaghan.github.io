@@ -1,5 +1,8 @@
 # Tashan Maniyalaghan's Personal Portfolio ⚡️ 
-## This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+### This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+
+## Activity 1
+![Activity 1](./images/Activity%201.png)
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://varadbhogayata.github.io
