@@ -4,6 +4,10 @@
 ## Activity 1
 ![Activity 1](./images/Activity%201.png)
 
+## Activity 2 
+![Activity 2 Repo](./images/Activity%202%20Repo.png)
+![Activity 2 Home Page](./images/Activity%202%20Home%20Page.png)
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://varadbhogayata.github.io
